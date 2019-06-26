@@ -8,8 +8,7 @@ repair the corruption in this spreadsheet - if we don't hurry,
 we'll have to display a pinwheel cursor!"
 
 ### Problem Statement
-The spreadsheet consists of rows of seemingly-random numbers. To make sure the recovery process is on the right track, they need
-you to calculate the spreadsheet's **checksum**.
+The spreadsheet consists of rows of seemingly-random numbers. To make sure the recovery process is on the right track, they need you to calculate the spreadsheet's **checksum**.
 
 For each row, determine the difference between the largest value and the smallest
 value; **the checksum is the sum of all of these differences**.
